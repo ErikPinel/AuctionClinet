@@ -257,7 +257,7 @@ function handlePriceInput(e)
 if(imageURL)
 postItem()
 },[imageURL]);
-
+//
 
 
 const postItem = (event) => {
