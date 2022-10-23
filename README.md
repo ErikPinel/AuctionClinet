@@ -1,3 +1,9 @@
+## About the project
+auction.co.il is a full-stack auction platform that 
+lets you post items for sale and bid on other listed items.
+
+
+
 ## Running the project
 
 1. Clone the repo.
@@ -27,6 +33,7 @@
 4. Move the function handling the end of the auction to the server-side.
 
 <p align="center"><img src="./darkmode.PNG" width="500" /></p>
-<p align="center"><img src="./bid.PNG" width="500" /></p>
 <p align="center"><img src="./light mode.PNG" width="500" /></p>
+<p align="center"><img src="./bid.PNG" width="500" /></p>
+
 
