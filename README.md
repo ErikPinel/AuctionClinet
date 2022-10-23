@@ -25,3 +25,8 @@
 3. add more item categories. 
 3. add user section.
 4. Move the function handling the end of the auction to the server-side.
+
+
+<p align="center"><img src="./bid.jpg" width="300" /></p>
+<p align="center"><img src="./bid.jpg" width="300" /></p>
+<p align="center"><img src="./bid.jpg" width="300" /></p>
