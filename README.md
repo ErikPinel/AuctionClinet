@@ -27,6 +27,6 @@
 4. Move the function handling the end of the auction to the server-side.
 
 
-<p align="center"><img src="./bid.jpg" width="300" /></p>
-<p align="center"><img src="./bid.jpg" width="300" /></p>
-<p align="center"><img src="./bid.jpg" width="300" /></p>
+<p align="center"><img src="./bid.PNG" width="300" /></p>
+<p align="center"><img src="./light mode.PNG" width="300" /></p>
+<p align="center"><img src="./darkmode.jpg" width="300" /></p>
