@@ -32,11 +32,12 @@ lets you post items for sale and bid on other listed items.
 3. add user section.
 4. Move the function handling the end of the auction to the server-side.
 
-                Dark mode dashBoard 
+
+ Dark mode dashBoard 
 <p align="center"><img src="./darkmode.PNG" heigth="500" width="500" /></p>
-                Light mode dashBoard
+ Light mode dashBoard
 <p align="center"><img src="./light mode.PNG" heigth="500" width="500" /></p>
-                 Item bids section
+Item bids section
 <p align="center"><img src="./bid.PNG" heigth="500" width="500" /></p>
 
 
